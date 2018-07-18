@@ -1,5 +1,5 @@
 def a_new_method
-  print "test"
+  print "testing fork"
 end
 
 class Person
